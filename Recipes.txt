@@ -17,3 +17,6 @@ South Indian
 Dosa
 uttapam
 Idli
+
+North Indian
+Naan
